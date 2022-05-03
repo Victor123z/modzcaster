@@ -34,7 +34,7 @@ local Frame = Instance.new("Frame")
 
 --Properties:
 
-FedoraHub.Name = "Fedora Hub"
+FedoraHub.Name = "Vespy Hub"
 FedoraHub.Parent = game.CoreGui
 
 MainFrame.Name = "MainFrame"
